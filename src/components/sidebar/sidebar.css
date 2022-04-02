@@ -1,0 +1,19 @@
+.sidebar{
+    margin-top: 35px;
+    margin-left: 20px;
+    padding: 23px;
+    width: 280px;
+}
+.genre{
+    padding: 15px;
+    font-size: 17px;
+    border-radius: 15px;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+.genre:hover{
+    background-color: #e6effc;
+}
+.active{
+    background-color: #e6effc;
+}
